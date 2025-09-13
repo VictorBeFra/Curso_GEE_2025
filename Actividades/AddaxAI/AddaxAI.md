@@ -1,6 +1,6 @@
 # **AddaxAI**
 ## Material
-Pueden descargar [**aquí**](https://www.swisstransfer.com/d/dbc44fbb-4a55-4386-8d13-dd0ca594a81f) las fotos de cámara trampa que utilizaremos durante el ejercicio de detección automática de AddaxAI. También pueden utilizar sus propios datos si tienen datos de fototrampeo. 
+Pueden descargar [**aquí**](https://addaxdatascience.com/addaxai/) el software AddaxAI para instalarlo y [**aquí**](https://www.swisstransfer.com/d/dbc44fbb-4a55-4386-8d13-dd0ca594a81f) las fotos de cámara trampa que utilizaremos durante el ejercicio de detección automática de AddaxAI. También pueden utilizar sus propios datos si tienen datos de fototrampeo. 
 
 ## Descarga modelo Global Model de SpeciesNet (3 gb)
 En casa, si es posible antes del lunes en la mañana, descarguen [esta foto](https://www.swisstransfer.com/d/1da9367e-b953-4783-9b42-f257496d9742) para analizarla en AddaxAI y **descargar** el modelo **Global Model de SpeciesNet** en nuestra computadora.
